@@ -26,9 +26,17 @@ The full set of files related to this course are owned by Udacity, so they are n
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+The repository contains the following key files:
 
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
+- **Exploratory Notebooks**:  
+    - `education_analysis.ipynb`: Investigates how educational background influences entry into developer roles.
+    - `salary_factors.ipynb`: Explores factors affecting developer salaries using Stack Overflow survey data.
+    - `bootcamp_diversity.ipynb`: Examines the impact of bootcamps on diversity and career transitions in tech.
+
+- **Model Script**:  
+    - `salary_prediction.py`: Contains code for building and evaluating the final model used to predict developer salaries.
+
+Each notebook includes markdown explanations to clarify the analysis steps and findings. The Python script is designed to be run independently for generating salary predictions based on processed survey data.
 
 ## Results<a name="results"></a>
 
